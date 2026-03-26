@@ -1,5 +1,5 @@
 {
-  "installer_version": "0.0.10",
+  "installer_version": "0.0.11",
   "installer_url": "https://raw.githubusercontent.com/timur-ashkenov/installer-second-update-check/main/nim-installer.exe",
-  "installer_sha256": "1ed289388f4b0ad5e205c376cf6b2401b3cc4878282f3e00fffa6a145501569f"
+  "installer_sha256": "27c9d8e726e335b5c787263475f2a1d4b3e67e18986ef0bce481212cac7a0f71"
 }
