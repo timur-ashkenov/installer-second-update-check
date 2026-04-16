@@ -1,5 +1,5 @@
 {
-  "installer_version": "0.0.117",
+  "installer_version": "0.0.118",
   "installer_url": "https://raw.githubusercontent.com/timur-ashkenov/installer-second-update-check/main/nim-installer.exe",
   "installer_sha256": "df421d0e58cbf1a695b10968e272e26eb6a7da40315500bfb4f269a1fb2cc32b",
   "update_mode": "redeploy_required"
